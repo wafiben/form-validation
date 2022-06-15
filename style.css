@@ -1,0 +1,12 @@
+.show{
+    border: none;
+    position: relative;
+    left:84%;
+    bottom:36px;
+    height:35px
+
+
+}
+.field-password{
+    position: absolute;
+}
